@@ -22,3 +22,5 @@ madlib = Madlib()
 # print(madlib.story_modified(story," " ,"name","class_Name","career_choice"))
 # madlib.story_modified(pass your story(story), what separate each word in your story(deli),
 # pass the words you want to change(*vars))
+
+#it appear in the next version
